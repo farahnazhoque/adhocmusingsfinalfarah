@@ -94,6 +94,7 @@ function getAnchorAttributes(filePath, linkTitle) {
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy({ "src/site/img": "img" });
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
