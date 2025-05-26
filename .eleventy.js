@@ -457,14 +457,17 @@ module.exports = function (eleventyConfig) {
     const parsed = parse(str);
     for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
       const src = imageTag.getAttribute("src");
-      if (src && src.startsWith("/") && !src.endsWith(".svg")) {
+      // Skip video files and SVGs
+      if (src && src.startsWith("/") && !src.endsWith(".svg") && !src.endsWith(".mp4")) {
         const cls = imageTag.classList.value;
         const alt = imageTag.getAttribute("alt");
         const width = imageTag.getAttribute("width") || '';
 
         try {
+          // Handle spaces in filenames
+          const decodedSrc = decodeURIComponent(src);
           const meta = transformImage(
-            "./src/site" + decodeURI(imageTag.getAttribute("src")),
+            "./src/site" + decodedSrc,
             cls.toString(),
             alt,
             ["(max-width: 480px)", "(max-width: 1024px)"]

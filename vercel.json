@@ -1,7 +1,7 @@
 {
     "outputDirectory": "dist",
     "installCommand": "npm install",
-    "buildCommand": "npm run build",
+    "buildCommand": "NODE_ENV=production DEBUG=* npm run build",
     "devCommand": "npm run start",
     "routes": [
         { "handle": "filesystem" },
