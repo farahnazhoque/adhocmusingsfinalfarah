@@ -179,7 +179,7 @@
 <div class="stat"><img src="/img/2.svg" alt="Cocoon">4 Cocoons</div>
 <div class="stat"><img src="/img/3.svg" alt="Butterfly">2 Butterflies</div>
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">4 Deaths and Rebirths</div>
-<div class="stat"><img src="/img/5.svg" alt="Forest Deer">13 Forest Deer</div>
+<div class="stat"><img src="/img/5.svg" alt="Forest Deer">11 Forest Deer</div>
 <div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
 <div class="stat"><img src="/img/7.svg" alt="The Swan">8 The Swans</div>
 </div>
