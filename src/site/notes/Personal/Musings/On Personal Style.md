@@ -1,0 +1,7 @@
+---
+{"title":"On Personal Style","dg-publish":true,"updated":"2025-04-09","created":"2025-04-09T13:44:35","tags":["personal-style","creation","curated","algorithm","fashion","inner-child"],"dg-note-icon":"the-swan","dg-path":"Musings/On Personal Style.md","permalink":"/musings/on-personal-style/","dgPassFrontmatter":true,"noteIcon":"the-swan","cover":"https://i.pinimg.com/736x/71/bf/45/71bf4573acdd0f1821a5c9fd3c3678c6.jpg"}
+---
+
+<img width="600" height="400" src="https://i.pinimg.com/736x/71/bf/45/71bf4573acdd0f1821a5c9fd3c3678c6.jpg">
+
+There is something so liberating when you finally figure out your personal style. For the longest time, I was moving with trends, trying to fit in, all the while feeling wrong and out of place even more. However, after slowing down, seeing fashion trends for what they are—a cog in a problematic machine that pulls you into places you would not have otherwise ventured (aka trad wives to conservative pipeline), I have finally found one that has somehow always been there, but I never looked at it. It was thanks to finally creating visions instead of consuming that I found that, for this particular style, I was inspired by my mother, culture, music taste, aesthetics I have always been drawn to, movies, and personality. I encourage everyone to tap into their inner voice, intuition, to find their way to style. Take inspiration from the world around you, not a machine-made algorithm.

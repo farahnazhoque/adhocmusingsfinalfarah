@@ -1,0 +1,23 @@
+---
+{"title":"The Silence of the Girls","created":"2025-03-31T06:54:00","updated":"2023-03-27","read_count":"1","authors":["Pat Barker"],"rating":4,"dg-publish":true,"cover":"https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673909740i/78814176.jpg"},"reviewed":true,"log":[{"status":"Read","timestamp":"2016-03-10T00:00:00+06:00"},{"status":"To Read","timestamp":"2015-11-29T00:00:00+06:00"}],"status":"Read","dg-path":"Reading/Books/Read/The Silence of the Girls by Pat Barker","permalink":"/reading/books/read/the-silence-of-the-girls-by-pat-barker/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673909740i/78814176.jpg"},"dgPassFrontmatter":true,"dg-note-icon":"the-swan","tags":["greek-mythology","feminism","womanhood","tragedy"],"noteIcon":"the-swan"}
+---
+
+
+“we are going to survive—our songs, our stories. they will never be able to forget us. decades after the last man who fought at troy is dead, their sons will remember the songs their trojan mothers sang to them. we will be in their dreams—and in their worst nightmares too.”  
+  
+the tale of the trojan war is no stranger to many. yet for centuries, it has been told only to glorify the heroes and the war itself. filled with characters deemed resilient, ingenious, epic, and glorious, the iliad focused solely on those. somehow, the voices of women have been left unheard, lost behind the praises of the men.  
+  
+i took a greek classics course a few quarters ago, and if i remember correctly, most of these tales of war and heroes were originally sung by women within the household. men would overhear them and later retell the stories, stripping them of the pain, layering them with glory.  
+  
+but not this novel. told from the perspective of briseis, a trojan slave, a wife, a daughter, a sister, a mother, gifted to the glorified achilles, the silence of the girls unflinchingly recounts the decade of war through her eyes. and for her, do we get to learn how selfish, terrible, and almost monstrous our supposed heroes actually were.  
+  
+i think this is such a great read. especially as a woman who once loved greek mythology. as you grow older and your understanding deepens, you realize how much of these myths are often steeped in pain, especially inflicted upon women. the silence of the girls holds your hand as it shows you the gut-wrenching reality faced by women during war. no matter the side, it is always the women and children who bear the most pain and consequences of a war they never started.
+
+> [!info] About The Silence of the Girls by Pat Barker
+><img src="https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg" style="float: left; margin-right: 1em; width: 150px; height: auto;" /> The ancient city of Troy has withstood a decade under siege of the powerful Greek army, which continues to wage bloody war over a stolen woman—Helen. In the Greek camp, another woman—Briseis—watches and waits for the war's outcome. She was queen of one of Troy's neighboring kingdoms, until Achilles, Greece's greatest warrior, sacked her city and murdered her husband and brothers. Briseis becomes Achilles's concubine, a prize of battle, and must adjust quickly in order to survive a radically different life, as one of the many conquered women who serve the Greek army.  
+>
+>When Agamemnon, the brutal political leader of the Greek forces, demands Briseis for himself, she finds herself caught between the two most powerful of the Greeks. Achilles refuses to fight in protest, and the Greeks begin to lose ground to their Trojan opponents. Keenly observant and coolly unflinching about the daily horrors of war, Briseis finds herself in an unprecedented position, able to observe the two men driving the Greek army in what will become their final confrontation, deciding the fate not only of Briseis's people but also of the ancient world at large.  
+>
+>Briseis is just one among thousands of women living behind the scenes in this war—the slaves and prostitutes, the nurses, the women who lay out the dead—all of them erased by history. With breathtaking historical detail and luminous prose, Pat Barker brings the teeming world of the Greek camp to vivid life. She offers nuanced, complex portraits of characters and stories familiar from mythology, which, seen from Briseis's perspective, are rife with newfound revelations. Barker's latest builds on her decades-long study of war and its impact on individual lives—and it is nothing short of magnificent.
+  
+
