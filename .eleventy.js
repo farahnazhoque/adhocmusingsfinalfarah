@@ -472,9 +472,22 @@ module.exports = function (eleventyConfig) {
 
           if (meta) {
             fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
+          } else {
+            // If image processing failed, keep the original image
+            imageTag.setAttribute("class", cls);
+            imageTag.setAttribute("alt", alt);
+            if (width) {
+              imageTag.setAttribute("width", width);
+            }
           }
-        } catch {
-          // Make it fault tolarent.
+        } catch (error) {
+          console.warn(`Warning: Could not process image ${src}: ${error.message}`);
+          // Keep the original image if processing fails
+          imageTag.setAttribute("class", cls);
+          imageTag.setAttribute("alt", alt);
+          if (width) {
+            imageTag.setAttribute("width", width);
+          }
         }
       }
     }
