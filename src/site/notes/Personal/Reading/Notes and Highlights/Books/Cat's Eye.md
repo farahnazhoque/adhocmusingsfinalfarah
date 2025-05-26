@@ -3,7 +3,7 @@
 ---
 
 ## Notes and rambles:
-in progress...
+
 
 ## Quotes and their pages
 
