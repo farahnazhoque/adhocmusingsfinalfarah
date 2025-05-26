@@ -8,28 +8,52 @@ const themeCommentRegex = /\/\*[\s\S]*?\*\//g;
 
 async function getTheme() {
   let themeUrl = process.env.THEME;
-  if (themeUrl) {
-    //https://forum.obsidian.md/t/1-0-theme-migration-guide/42537
-    //Not all themes with no legacy mark have a theme.css file, so we need to check for it
+  if (!themeUrl) {
+    console.log("No theme URL provided in environment variables. Skipping theme download.");
+    return;
+  }
+
+  //https://forum.obsidian.md/t/1-0-theme-migration-guide/42537
+  //Not all themes with no legacy mark have a theme.css file, so we need to check for it
+  let themeData = null;
+  let error = null;
+
+  try {
+    // Try theme.css first
     try {
-      await axios.get(themeUrl);
-    } catch {
-      if (themeUrl.indexOf("theme.css") > -1) {
-        themeUrl = themeUrl.replace("theme.css", "obsidian.css");
-      } else if (themeUrl.indexOf("obsidian.css") > -1) {
-        themeUrl = themeUrl.replace("obsidian.css", "theme.css");
+      const res = await axios.get(themeUrl);
+      themeData = res.data;
+    } catch (e) {
+      // If theme.css fails, try obsidian.css
+      const altUrl = themeUrl.includes("theme.css") 
+        ? themeUrl.replace("theme.css", "obsidian.css")
+        : themeUrl.replace("obsidian.css", "theme.css");
+      
+      try {
+        const res = await axios.get(altUrl);
+        themeData = res.data;
+      } catch (e2) {
+        error = e2;
       }
     }
 
-    const res = await axios.get(themeUrl);
+    if (!themeData) {
+      throw error || new Error("Failed to fetch theme from both URLs");
+    }
+
+    // Clean up existing theme files
     try {
       const existing = globSync("src/site/styles/_theme.*.css");
       existing.forEach((file) => {
         fs.rmSync(file);
       });
-    } catch {}
+    } catch (e) {
+      console.warn("Warning: Could not clean up existing theme files:", e.message);
+    }
+
+    // Process theme data
     let skippedFirstComment = false;
-    const data = res.data.replace(themeCommentRegex, (match) => {
+    const processedData = themeData.replace(themeCommentRegex, (match) => {
       if (skippedFirstComment) {
         return "";
       } else {
@@ -37,11 +61,22 @@ async function getTheme() {
         return match;
       }
     });
+
+    // Generate hash and save file
     const hashSum = crypto.createHash("sha256");
-    hashSum.update(data);
+    hashSum.update(processedData);
     const hex = hashSum.digest("hex");
-    fs.writeFileSync(`src/site/styles/_theme.${hex.substring(0, 8)}.css`, data);
+    const outputPath = `src/site/styles/_theme.${hex.substring(0, 8)}.css`;
+    
+    fs.writeFileSync(outputPath, processedData);
+    console.log(`Successfully downloaded and saved theme to ${outputPath}`);
+  } catch (error) {
+    console.error("Error downloading theme:", error.message);
+    console.log("Continuing build without theme...");
   }
 }
 
-getTheme();
+getTheme().catch(error => {
+  console.error("Fatal error in get-theme:", error);
+  process.exit(1);
+});

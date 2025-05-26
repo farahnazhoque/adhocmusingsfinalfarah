@@ -457,17 +457,14 @@ module.exports = function (eleventyConfig) {
     const parsed = parse(str);
     for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
       const src = imageTag.getAttribute("src");
-      // Skip video files and SVGs
-      if (src && src.startsWith("/") && !src.endsWith(".svg") && !src.endsWith(".mp4")) {
+      if (src && src.startsWith("/") && !src.endsWith(".svg")) {
         const cls = imageTag.classList.value;
         const alt = imageTag.getAttribute("alt");
         const width = imageTag.getAttribute("width") || '';
 
         try {
-          // Handle spaces in filenames
-          const decodedSrc = decodeURIComponent(src);
           const meta = transformImage(
-            "./src/site" + decodedSrc,
+            "./src/site" + decodeURI(imageTag.getAttribute("src")),
             cls.toString(),
             alt,
             ["(max-width: 480px)", "(max-width: 1024px)"]
@@ -475,22 +472,9 @@ module.exports = function (eleventyConfig) {
 
           if (meta) {
             fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
-          } else {
-            // If image processing failed, keep the original image
-            imageTag.setAttribute("class", cls);
-            imageTag.setAttribute("alt", alt);
-            if (width) {
-              imageTag.setAttribute("width", width);
-            }
           }
-        } catch (error) {
-          console.warn(`Warning: Could not process image ${src}: ${error.message}`);
-          // Keep the original image if processing fails
-          imageTag.setAttribute("class", cls);
-          imageTag.setAttribute("alt", alt);
-          if (width) {
-            imageTag.setAttribute("width", width);
-          }
+        } catch {
+          // Make it fault tolarent.
         }
       }
     }
