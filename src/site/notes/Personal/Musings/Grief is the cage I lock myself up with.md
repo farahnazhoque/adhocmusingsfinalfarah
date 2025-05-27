@@ -3,7 +3,6 @@
 ---
 
 <img width="600" height="400" src="https://i.pinimg.com/736x/c4/31/95/c43195c92d203a080e1aaa8bd366d027.jpg">
-
 The grief I carry, my grief, is perhaps a cage I built myself to be locked up within. The outside world is dark, dangerous, and too real. Too real for me to navigate through. Too real to make my stomach drop if I keep wandering about.
 
 So, I took the hurt I received. Made it bigger than it is meant to be, so I can cry and complain about it, acting as if I wasn't the one who built this brick by brick to keep reality away from consuming me. 

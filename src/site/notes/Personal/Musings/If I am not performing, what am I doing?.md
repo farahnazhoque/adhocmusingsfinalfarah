@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Musings/If I am not performing, what am I doing?.md","permalink":"/musings/if-i-am-not-performing-what-am-i-doing/","title":"If I am not performing, what am I doing?","tags":["performative","fake","authenticity"],"noteIcon":"caterpillar"}
+{"title":"If I am not performing, what am I doing?","dg-publish":true,"updated":"2025-05-26","created":"2025-05-26T00:19:00","tags":["performative","fake","authenticity"],"dg-note-icon":"caterpillar","dg-path":"Musings/If I am not performing, what am I doing?.md","permalink":"/musings/if-i-am-not-performing-what-am-i-doing/","dgPassFrontmatter":true,"noteIcon":"caterpillar","cover":"https://i.pinimg.com/736x/96/f2/2a/96f22a20b5a0b9fb4a7374a35896ba7c.jpg"}
 ---
 
 ![IMG_0963.jpeg](/img/user/Assets/IMG_0963.jpeg)
