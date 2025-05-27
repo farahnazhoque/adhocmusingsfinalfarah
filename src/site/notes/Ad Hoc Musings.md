@@ -178,7 +178,7 @@
 
 </div>
 <div class="forest-legends">
-<div class="stat"><img src="/img/1.svg" alt="Caterpillar">7 Caterpillars</div>
+<div class="stat"><img src="/img/1.svg" alt="Caterpillar">8 Caterpillars</div>
 <div class="stat"><img src="/img/2.svg" alt="Cocoon">4 Cocoons</div>
 <div class="stat"><img src="/img/3.svg" alt="Butterfly">2 Butterflies</div>
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">4 Deaths and Rebirths</div>
