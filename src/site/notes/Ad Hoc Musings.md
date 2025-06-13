@@ -122,6 +122,9 @@
 <a class="death-and-rebirth" href="/journal/i-love-to-code-but-no-one-wants-to-hire-me/" title="I love to code but no one will hire me">
 <img src="/img/4.svg" alt="" style="width:auto;height:25px">
 </a>
+<a class="caterpillar" href="/journal/so-i-am-graduating-tomorrow/" title="So, I am graduating tomorrow">
+<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+</a>
 </div>
 
 <div class="forest-row">
