@@ -3,7 +3,7 @@
 ---
 
 ![Pasted-image-20250523133736.png](/img/user/Assets/Pasted-image-20250523133736.png)
-How does one shift the narrative and turn their life around as one watches their life pass by through hellish realms? I always thought I would be the main character of my own story, but over the years, the light behind my eyes has faded, and my outstretched hands grow meeker, for an ounce of luck that so many others have. I realize I am just a forced observer.
+How does one shift the narrative and turn their life around as one watches their life pass by through hellish realms? I always thought I would be the main character of my own story, but over the years, the light behind my eyes has faded, and my outstretched hands grow meeker, for an ounce of luck that so many others have. I realize I am just a forced observer of my own life.
 
 During times such as these, times filled with darkness, I am always being asked to look at those who are suffering more than I, to learn and practice gratitude; to be thankful for my current life. However, I see those who are the most ungrateful achieve things I can only dream of, oh so easily, too. So, where does that put me?
 
@@ -11,8 +11,8 @@ During times such as these, times filled with darkness, I am always being asked 
 
 Some argue I am being too greedy. However, why is it so frowned upon to ask and hope for a good life? Why am I being conditioned to believe that I am undeserving of a life filled with comfort, security, peace, and community? Was I not made by the same Creator? Was I not made from the same clay as those who get everything? If my luck is the only thing setting me apart from those who have it all, then why am I held down and forced to bow to it and show my appreciation for it, when all it has poured upon me are lesson upon lessons?
 
-I can only sit and cry now, watching my life from the sidelines. I wish to shift my narrative. I wish to become more than the luck I was bestowed with, the fate I carry, with gritted teeth. I know gratitude will set me free, yet I hold onto my resentment as if it is a dying child and I, a maddened mother. I know it will only hurt me. But what must I do? I am nothing without my anger. The joy and light within me have been sucked out thanks to expectations from the world and the capitalism whose leash is chking me bloody. They stripped me of my humanity and left me with only raw, seething hatred.
+I can only sit and cry now, watching my life from the sidelines. I wish to shift my narrative. I wish to become more than the luck I was bestowed with, the fate I carry, with gritted teeth. I know gratitude will set me free, yet I hold onto my resentment as if it is a dying child and I, a maddened mother. I know it will only hurt me. But what must I do? I am nothing without my anger. The joy and light within me have been sucked out thanks to expectations from the world and the capitalism whose leash is choking me bloody. They stripped me of my humanity and left me with only raw, seething hatred.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67319e7a-cece-4730-89df-85c7bcababc0_500x350.jpeg)
 
-So, now I carry my rage, my fate, and my luck, my cursed children, who tug me forward every day. Some day I can shift, some day I can heal from the burns of my own raging tears.
+So, now I carry my rage, my fate, and my luck, my cursed children, who tug me forward every day. Some day I will shift, some day I will heal from the burns of my own raging tears. But today, I sit in silence.
