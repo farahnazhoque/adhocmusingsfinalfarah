@@ -3,4 +3,4 @@
 ---
 
 <img width="600" height="400" src="https://i.pinimg.com/736x/c4/31/95/c43195c92d203a080e1aaa8bd366d027.jpg">
-Does life has to be this serious all the time? On one hand, my answer tugs me towards “no”, for we really are here for a short time, at least relatively to the existence of the world that we call our home. So, my nihilistic part 
+Does life has to be this serious all the time? On one hand, my answer tugs me towards “no”, for we really are here for a short time, at least relatively to the existence of the world that we call our home. So, my nihilistic part reminds m

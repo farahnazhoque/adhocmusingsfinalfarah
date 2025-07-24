@@ -100,6 +100,8 @@
 </a>
 <a class="forest-deer" href="/entities/objects/articles/substack/article-on-moving-on-from-the-past/" title="Article on moving on from the past">
 <img src="/img/5.svg" alt="" style="width:auto;height:25px">
+<a class="forest-deer" href="/entities/objects/articles/others/patriarchy-and-the-origins-of-womens-oppression/" title="Patriarchy and the origins of women's oppression">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
@@ -127,6 +129,9 @@
 </a>
 <a class="caterpillar" href="/journal/so-i-am-graduating-tomorrow/" title="So, I am graduating tomorrow">
 <img src="/img/1.svg" alt="" style="width:auto;height:25px">
+</a>
+<a class="butterfly" href="/journal/the-acts-of-healing/" title="The Acts of Healing">
+<img src="/img/4.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
@@ -186,7 +191,7 @@
 <div class="forest-legends">
 <div class="stat"><img src="/img/1.svg" alt="Caterpillar">8 Caterpillars</div>
 <div class="stat"><img src="/img/2.svg" alt="Cocoon">4 Cocoons</div>
-<div class="stat"><img src="/img/3.svg" alt="Butterfly">2 Butterflies</div>
+<div class="stat"><img src="/img/3.svg" alt="Butterfly">3 Butterflies</div>
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">4 Deaths and Rebirths</div>
 <div class="stat"><img src="/img/5.svg" alt="Forest Deer">11 Forest Deer</div>
 <div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
