@@ -10,4 +10,4 @@ I stopped asking why I do not get jobs anymore, maybe it's luck, maybe it's the 
 
 It is hard looking past all my struggles. I do not know how I am staying sane amidst all this. I have faith, I have religion. That is all I have. My purpose is something I am scared I will never find, for the means to even reflect on it are not meeting. I had a lot of dreams, you know? I genuinely care for this world, and I wanted to work amongst talents and organizations that feel the same way. I just don't know if they exist anymore. Perhaps the world of tech has gone to a place I can no longer follow. 
 
-Even if I can't, where do I go? Every time I reflect and ponder, I am left with even more questions. Questions about life, my passion, my future. So much of me still left to be uncovered but I am so afraid and so lost to even know where to go next.
+Even if I can't, where do I go? Every time I reflect and ponder, I am left with even more questions. Questions about life, my passion, my future. So much of me still left to be uncovered but I am so afraid and so lost to even know where to go next, which chapter to write.
