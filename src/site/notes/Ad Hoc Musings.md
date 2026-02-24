@@ -89,6 +89,9 @@
 <a class="forest-deer" href="/entities/objects/websites/mariano-pascual-portfolio/" title="Mariano Pascual Porfolio">
 <img src="/img/5.svg" alt="" style="width:auto;height:25px">
 </a>
+<a class="forest-deer" href="/entities/objects/websites/syllabus-project/" title="Syllabus Project">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
+</a>
 <a class="forest-deer" href="/entities/objects/articles/substack/article-on-trad-wives-skinny-culture-conservatism/" title="Article on trad-wives, skinny culture, conservatism">
 <img src="/img/5.svg" alt="" style="width:auto;height:25px">
 </a>
@@ -165,6 +168,12 @@
 
 <div class="forest-row">
 <span class="tree plane}">
+<a class="forest-deer" href="/entities/objects/research-papers/villainous-rich-girls/gender-and-media-representation/" title="Gender and Media Representation">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
+</a>
+<a class="forest-deer" href="/entities/objects/research-papers/villainous-rich-girls/media-and-the-development-of-gender-role-stereotypes/" title="Media and the Development of Gender Role Stereotypes">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
+</a>
 <span></span>
 </span>
 <span class="tree plane}">
@@ -193,7 +202,7 @@
 <div class="stat"><img src="/img/2.svg" alt="Cocoon">4 Cocoons</div>
 <div class="stat"><img src="/img/3.svg" alt="Butterfly">3 Butterflies</div>
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">4 Deaths and Rebirths</div>
-<div class="stat"><img src="/img/5.svg" alt="Forest Deer">11 Forest Deer</div>
+<div class="stat"><img src="/img/5.svg" alt="Forest Deer">13 Forest Deer</div>
 <div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
 <div class="stat"><img src="/img/7.svg" alt="The Swan">8 The Swans</div>
 </div>
@@ -237,8 +246,8 @@ The Swan (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/7.
 ## 📚 Read Lately
 | Cover                                                                                         | Title                                                                                 | Tags                                                                                                                                      |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| ![coverimg\|100](https://m.media-amazon.com/images/I/71F85zXcMjL._AC_UF1000,1000_QL80_.jpg)   | [[Personal/Reading/Books/Read/Kitchen\|Kitchen]]                                   | <ul><li>slice-of-life</li><li>loss</li><li>coming-of-age</li><li>melancholia</li><li>hope</li></ul>                                       |
 | ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | [[Personal/Reading/Books/Read/Lapvona\|Lapvona]]                                   | <ul><li>feminism</li><li>womanhood</li><li>tragedy</li><li>medieval</li><li>witchcraft</li><li>religious-trauma</li><li>fantasy</li></ul> |
+| ![coverimg\|100](https://m.media-amazon.com/images/I/71F85zXcMjL._AC_UF1000,1000_QL80_.jpg)   | [[Personal/Reading/Books/Read/Kitchen\|Kitchen]]                                   | <ul><li>slice-of-life</li><li>loss</li><li>coming-of-age</li><li>melancholia</li><li>hope</li></ul>                                       |
 | ![coverimg\|100](https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg) | [[Personal/Reading/Books/Read/The Silence of the Girls\|The Silence of the Girls]] | <ul><li>greek-mythology</li><li>feminism</li><li>womanhood</li><li>tragedy</li></ul>                                                      |
 
 { .block-language-dataview}
@@ -246,15 +255,16 @@ The Swan (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/7.
 ## 🧠 On Top of My Mind…
 | Cover                                                                                     | Title                                                                                                                         | Updated        | Created                  | Tags                                                                                                                         |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]]                                                              | April 02, 2025 | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul>                                            |
 | ![coverimg\|100](https://i.pinimg.com/736x/70/ec/7d/70ec7d2853230e259adfe1c9ecccca31.jpg) | [[Personal/Musings/Environment and Creation\|Environment and Creation]]                                                    | April 09, 2025 | 1:44 PM - April 09, 2025 | <ul><li>creation</li><li>inner-child</li><li>child-like-wonder</li><li>writing</li><li>creating</li><li>creativity</li></ul> |
+| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]]                                                              | April 02, 2025 | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul>                                            |
 | ![coverimg\|100](https://i.pinimg.com/736x/a9/7f/7a/a97f7a6c94fcc60d9014a8b3c34121dd.jpg) | [[Personal/Musings/Freedom\|Freedom]]                                                                                      | May 09, 2025   | 1:44 PM - May 09, 2025   | <ul><li>freedom</li><li>lifestyle</li><li>patriarchy</li><li>shame</li><li>guilt</li></ul>                                   |
-| ![coverimg\|100](https://i.pinimg.com/736x/c4/31/95/c43195c92d203a080e1aaa8bd366d027.jpg) | [[Personal/Musings/Grief is the cage I lock myself up with\|Grief is the cage I lock myself up with]]                      | May 09, 2025   | 1:44 PM - May 09, 2025   | <ul><li>freedom</li><li>lifestyle</li><li>patriarchy</li><li>shame</li><li>guilt</li></ul>                                   |
+| ![coverimg\|100](https://i.pinimg.com/736x/96/f2/2a/96f22a20b5a0b9fb4a7374a35896ba7c.jpg) | [[Personal/Musings/If I am not performing, what am I doing?\|If I am not performing, what am I doing?]]                    | May 26, 2025   | 12:19 AM - May 26, 2025  | <ul><li>performative</li><li>fake</li><li>authenticity</li></ul>                                                             |
 | ![coverimg\|100](https://i.pinimg.com/736x/f2/f2/d8/f2f2d80be6126d25b63cf66137661f02.jpg) | [[Personal/Musings/I am nothing without my anger\|I am nothing without my anger]]                                          | May 23, 2025   | 1:43 PM - April 07, 2025 | \-                                                                                                                           |
+| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Humans and Animals\|Class Consciousness]]                                                               | April 02, 2025 | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul>                                            |
 | ![coverimg\|100](https://i.pinimg.com/736x/71/bf/45/71bf4573acdd0f1821a5c9fd3c3678c6.jpg) | [[Personal/Musings/On Personal Style\|On Personal Style]]                                                                  | April 09, 2025 | 1:44 PM - April 09, 2025 | <ul><li>personal-style</li><li>creation</li><li>curated</li><li>algorithm</li><li>fashion</li><li>inner-child</li></ul>      |
 | ![coverimg\|100](https://i.pinimg.com/736x/3a/ef/ee/3aefee89f0fb9467169cd38e823a0f6b.jpg) | [[Personal/Musings/The complexities of teenage girls\|The complexities of teenage girls]]                                  | April 18, 2025 | 1:43 PM - April 16, 2025 | <ul><li>girlhood</li><li>society</li><li>commentary</li><li>culture</li><li>high-school</li></ul>                            |
-| ![coverimg\|100](https://i.pinimg.com/736x/96/f2/2a/96f22a20b5a0b9fb4a7374a35896ba7c.jpg) | [[Personal/Musings/If I am not performing, what am I doing?\|If I am not performing, what am I doing?]]                    | May 26, 2025   | 12:19 AM - May 26, 2025  | <ul><li>performative</li><li>fake</li><li>authenticity</li></ul>                                                             |
 | ![coverimg\|100](https://i.pinimg.com/736x/c4/31/95/c43195c92d203a080e1aaa8bd366d027.jpg) | [[Personal/Musings/Maybe I take myself too seriously (or maybe I am just traumatized)\|Maybe I take myself too seriously]] | May 09, 2025   | 8:21 AM - July 02, 2025  | \-                                                                                                                           |
+| ![coverimg\|100](https://i.pinimg.com/736x/c4/31/95/c43195c92d203a080e1aaa8bd366d027.jpg) | [[Personal/Musings/Grief is the cage I lock myself up with\|Grief is the cage I lock myself up with]]                      | May 09, 2025   | 1:44 PM - May 09, 2025   | <ul><li>freedom</li><li>lifestyle</li><li>patriarchy</li><li>shame</li><li>guilt</li></ul>                                   |
 
 { .block-language-dataview}
 ---

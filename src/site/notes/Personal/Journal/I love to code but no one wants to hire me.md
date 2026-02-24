@@ -2,7 +2,7 @@
 {"title":"Lack of Creation","mood":"melancholic","weather":"night","location":"Irivine, CA","dg-publish":true,"dg-note-icon":"death-and-rebirth","tags":["life","software-engineer"],"updated":"2025-05-20","created":"2025-05-20T22:46:00","dg-path":"Journal/I love to code but no one wants to hire me.md","permalink":"/journal/i-love-to-code-but-no-one-wants-to-hire-me/","dgPassFrontmatter":true,"noteIcon":"death-and-rebirth"}
 ---
 
-I was in seventh grade when I decided software engineering was going to be the thing for me. When I visited my uncle and his family in Canada, I saw him on his computer all the time, while also having a really good work-life balance as a software engineer. I was already a fanatic for Barbie games, and someone who knew computer software inside out, having explored every application and tool available on the Sony VAIO.
+I was in seventh grade when I decided software engineering was going to be the thing for me. When I visited my uncle and his family in Canada, I saw him on his computer all the time, while also having a really good work-life balance as a software engineer. I was already a fanatic for Barbie games, which led me to learn about the computer software inside out, having explored every application and tool available on the Sony VAIO.
 
 So, for baby Farahnaz, who was in love with computers and girly games, this was a dream worth chasing. Not only will I be able to interact with and use applications I come up with, but also learn how to create them, so I can build more stuff.
 
